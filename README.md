@@ -9,4 +9,4 @@ Default Wifi Name: MyWifi
 
 Default Wifi Password: 123456
 
-email: sbo@zju.edu.cn
+Email: sbo@zju.edu.cn
