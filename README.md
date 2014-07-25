@@ -7,6 +7,6 @@ Environment: Window 7
 
 Default Wifi Name: MyWifi
 
-Default Wifi Password: 123456
+Default Wifi Password: 12345678
 
 Email: sbo@zju.edu.cn
