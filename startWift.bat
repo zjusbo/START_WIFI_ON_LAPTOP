@@ -1,3 +1,7 @@
+::start wifi on your lapto automatically.
+::Win 7 version 
+::author: Song Bo, Eagle, Zhejiang University
+::email:sbo@zju.edu.cn
 echo off
 echo.Starting hostednetwork
 echo.Id: MyWifi
