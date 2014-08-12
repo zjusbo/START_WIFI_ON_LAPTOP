@@ -1,7 +1,7 @@
 START_WIFI_ON_LAPTOP
 ====================
 
-Set hostednetwork (hot spot, wifi) on your laptop just by a click.
+Set hostednetwork (hot spot, wifi) on your laptop just by a double click.
 
 Environment: Window 7
 

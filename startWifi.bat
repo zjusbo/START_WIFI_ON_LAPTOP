@@ -3,6 +3,7 @@
 ::author: Song Bo, Eagle, Zhejiang University
 ::email:sbo@zju.edu.cn
 echo off
+
 echo.Starting hostednetwork
 echo.Id: MyWifi
 netsh wlan set hostednetwork mode=allow ssid=MyWifi key=12345678
